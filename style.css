@@ -1,0 +1,142 @@
+body{
+	background-color: grey;
+	font-family:italic;
+	color:purple;
+	font-size:16px;
+}
+.first-container{
+	background-color: black;
+	width: 100%;
+	border:3px purple;
+	margin-bottom: 30px;
+}
+.second-container{
+	background-color: lightblue;
+	padding:10px;
+	margin-bottom: 30px;
+	margin-top: 30px;
+text-align: center;
+
+
+}
+.harshit{
+	margin:30px;
+}
+.eight_container{
+	width: 95.5%;
+	margin-left: 25px;
+	margin-right: 20px;
+	padding: 10px;
+	margin-bottom: 20px;
+}
+.eight_container a span{
+	text-align: center;
+	font-color:black;
+}
+.card{
+	margin-bottom: 30px;
+}
+ a{
+	font-size: 2em;
+}
+h2{
+	font-size:1.2em;
+margin-top: 30px;
+margin-bottom: 30px;
+}
+.navbar-header button.navbar-toggler , .navbar-header .icon-bar{
+border:1px green;
+
+}	
+
+.navbar-header button .navbar-toggle{
+	clear:both;
+	
+}
+#nav-list{
+	margin-top:10px;
+}
+#nav-list a {
+
+	text-align:center;
+}
+.navbar-brand{
+	font-size: 30px;
+}
+#nav-list a:hover {
+	background: #e7e7e7
+	padding:5px;
+	border: 2px white;
+}
+
+
+
+#nav-list a span {
+	font-size: 1.8em;
+
+}
+.icon{
+	position: absolute;
+	top: 25px;
+	right: 40px}
+.first{
+	font-style: italic;
+	font-size: 1em;
+	margin-top:20px;
+	text-align: center;
+}
+.second{
+	font-style: italic;
+	font-size:1em;
+	
+	text-align: center;
+}
+.third{font-style: italic;
+	font-size:1em;
+	
+	text-align: center;
+	}
+	.third-container{
+		background-color: lightpink;
+	}
+.fourth-container{
+		background-color: lightblue;
+	padding:10px;
+	margin-bottom: 25px;
+
+
+}
+.fifth-container{
+		background-color: lightblue;
+	padding:10px;
+	margin-bottom: 25px; 
+	
+
+}
+.row-class{
+	margin-left: 10px; 
+	margin-right: 10px;
+}
+.sixth-container{
+	background-color: black;
+	width:100%;
+	
+	padding: 15px;
+ margin-left: 0px;
+ margin-right: 0px;
+
+}
+.happy{
+	position: absolute;
+	right: 5px;
+	top:5px;
+	
+}
+.happy a span {
+	padding: 5px;
+	margin:5px;
+
+}
+#main-content{
+width:100%;
+Margin:0px;}
